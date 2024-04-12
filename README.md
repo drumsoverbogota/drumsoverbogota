@@ -9,8 +9,8 @@
 <h3>Here you can find some projects such as</h3>
 
 - <a href="https://github.com/drumsoverbogota/archivodjango">El Muladar</a>: A Colombian Punk archive I'm working on!
-- <a href="https://github.com/drumsoverbogota/boot_split">boot_split</a>: A small boot-sector program I made sometime ago for a record that we distrubuted in a Floppy Disk.
-- <a href="https://github.com/drumsoverbogota/punemu">punemu</a>: A Gameboy emulator that I was working on a long time ago. The CPU interpreter was mostly completed but the Graphical interface was missing.
+- <a href="https://github.com/drumsoverbogota/boot_split">boot_split</a>: A small boot-sector program I made sometime ago written in x86 Assembly for a record that we distrubuted in a Floppy Disk.
+- <a href="https://github.com/drumsoverbogota/punemu">punemu</a>: A Gameboy emulator I worked on a long time ago. While the CPU interpreter was mostly completed, the graphical interface was still in progress.
   
 <h3>Connect with me:</h3>
 <p>
