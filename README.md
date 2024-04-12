@@ -4,7 +4,7 @@
 - 🌱 I have mostly experience with **Python** but I have worked also with **Java**, **PHP**. I have also experimented a little bit with **C++/x86 ASM**.
 - 📚 I have a lot of knowledge with **AWS**, but also have worked with **Azure Cloud** a little bit.
 - 👨‍💻 I’m learning about **Docker**, **CI/CD** and setting up production environments.
-- 🎸 I'm currently focused on creating a Colombian Punk archive and filling it with content. Check it out at https://elmuladar.com
+- 🎸 In my spare time, I'm creating a Colombian Punk archive and filling it with content. Check it out at https://elmuladar.com
 
 <h3>Here you can find some projects such as</h3>
 
